@@ -1,0 +1,3 @@
+/home/gabriele/CLionProjects/Lista_Della_Spesa/cmake-build-debug/CMakeFiles/Lista_Della_Spesa.dir
+/home/gabriele/CLionProjects/Lista_Della_Spesa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gabriele/CLionProjects/Lista_Della_Spesa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
